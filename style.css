@@ -58,7 +58,7 @@ main img {
 
 header {
   background-color: #83092e;
-  padding: 20px 20px 0 20px;
+  padding: 20px;
   text-align: center;
 }
 
@@ -66,6 +66,11 @@ header {
   font-family: "Tangerine", cursive;
   font-size: 72px;
   color: #ecdbc9;
+}
+
+header nav ul {
+  display: flex;
+  
 }
 
 header nav ul li {
